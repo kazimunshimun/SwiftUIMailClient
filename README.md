@@ -2,6 +2,12 @@
 
 Replicating Mail Client UI dribble design in SwiftUI 2.0 
 
+## Overview
+
+<p float="left">
+<img src="https://github.com/kazimunshimun/SwiftUIMailClient/raw/master/overview.gif" width="340">
+</p>
+
 ## Youtube speed code:
 
 #### Tutorial :
